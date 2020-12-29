@@ -1,0 +1,41 @@
+{
+    "assetInfo": [
+    	{
+            "name": "Alphabet Inc. Class A Common Stock",
+            "current": 1821.89,
+            "diffValue": "+$1.67",
+            "diff": "1.67",
+            "per": "0.09"
+    	},
+    	{
+            "name": "Apple Inc. Common Stock",
+            "current": 122.06,
+            "diffValue": "-$0.54",
+            "diff": "-0.54",
+            "per": "-0.44"
+    	},
+    	{
+            "name": "Facebook, Inc. Class A Common Stock",
+            "current": 280.68,
+            "diffValue": "+$0.38",
+            "diff": "0.38",
+            "per": "0.14"
+    	},
+    	{
+            "name": "Raytheon Technologies Corporation",
+            "current": 74.285,
+            "diffValue": "+$0.91",
+            "diff": "0.91",
+            "per": "1.23"
+    	},
+    	{
+            "name": "Royce Value Trust, Inc.",
+       	 "current": 16.11,
+            "diffValue": "+$0.29",
+            "diff": "0.29",
+            "per": "1.83"
+    	}
+	]
+}
+ 
+ 
